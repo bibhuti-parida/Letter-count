@@ -1,0 +1,68 @@
+/* Write your code here. */
+.bg-container {
+  background: linear-gradient(to right, #00c9ff, #92fe9d);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.content-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 85%;
+  max-width: 1000px;
+}
+
+.left-container {
+  flex: 1;
+}
+
+.right-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 35px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  color: #ffffff;
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+
+.input {
+  width: 100%;
+  max-width: 350px;
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  margin-bottom: 20px;
+  display: block; /* makes input full line */
+}
+
+.count-text {
+  background-color: #ffffff;
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #00c9ff;
+  margin-top: 10px;
+}
+
+.image {
+  max-width: 400px;
+  width: 100%;
+}

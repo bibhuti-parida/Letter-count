@@ -1,3 +1,20 @@
+# Letters Calculator App
+
+A simple React application that allows users to type a phrase and instantly calculates the **number of letters** entered.
+
+## 🚀 Live Demo
+[Click here to view the app](https://bibhutikumarparidamiwn2rjscpb31l8.drops.nxtwave.tech/)
+
+## 📸 Features
+- Input field to type any phrase
+- Displays the count of letters dynamically
+- Clean UI with gradient background
+- Responsive design
+
+## 🛠️ Tech Stack
+- React.js
+- CSS3 (Flexbox for layout)
+  
 In this project, let's build a **Letters Calculator** by applying the concepts we have learned till now.
 
 ### Refer to the image below:

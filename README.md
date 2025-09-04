@@ -4,7 +4,6 @@ A simple React application that allows users to type a phrase and instantly calc
 
 ## 🚀 Live Demo
 [Click here to view the app](https://bibhutikumarparidamiwn2rjscpb31l8.drops.nxtwave.tech/)
-Link: https://bibhutikumarparidamiwn2rjscpb31l8.drops.nxtwave.tech/
 
 ## 📸 Features
 - Input field to type any phrase
